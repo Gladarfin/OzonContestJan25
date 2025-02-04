@@ -2,7 +2,7 @@
 Основной раунд Route 256: Middle C#-разработчик, Январь 2025
 
 <details><summary>Результаты решений на Ozon Techpoint:</summary>
-![](https://github.com/user-attachments/assets/8b8f0bdf-f4bc-43db-91ec-77744b800db9)
+<img src="https://github.com/user-attachments/assets/8b8f0bdf-f4bc-43db-91ec-77744b800db9">
  </details>
  
 <h3>Задания:</h3>
