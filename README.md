@@ -4,6 +4,8 @@
 <details><summary>Результаты решений на Ozon Techpoint:</summary>
 <img src="https://github.com/user-attachments/assets/8b8f0bdf-f4bc-43db-91ec-77744b800db9">
  </details>
+
+ <p>Все тесты (из открытого доступа) находятся в папке Tests</p>
  
 <h3>Задания:</h3>
 <details>
